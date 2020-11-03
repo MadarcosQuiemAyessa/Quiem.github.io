@@ -1,0 +1,29 @@
+html {
+background-image: url(/WEBPAGE/images/Sunset.jpg);
+background-attachment: fixed;
+}
+
+body { 
+width: 800px;
+margin: 0 auto;
+}
+
+p {
+text-align: center;
+color: rgb(48, 1, 16);
+font-family: 'Oswald', sans-serif;
+font-size: 22px; }
+
+h1 { 
+text-align: center;
+color: rgb(117, 10, 54);
+font-family: 'Cookie', cursive;
+font-size: 90px; 
+padding: 20px 0;
+text-shadow: 3px 3px 1px powderblue; }
+
+
+
+
+
+
